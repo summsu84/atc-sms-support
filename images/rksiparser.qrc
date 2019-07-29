@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>find.png</file>
+        <file>gotocell.png</file>
+        <file>icon.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>paste.png</file>
+        <file>rksiparser.qrc</file>
+        <file>save.png</file>
+        <file>todb.png</file>
+        <file>background1.png</file>
+        <file>background2.png</file>
+        <file>background3.png</file>
+        <file>background4.png</file>
+    </qresource>
+</RCC>
